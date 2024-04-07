@@ -1,6 +1,6 @@
-// 
+//
 // Navbar
-// 
+//
 
 #mainNav {
     padding-top: 1rem;
@@ -20,7 +20,7 @@
                 color: $white;
 
                 &:hover {
-                    color: $primary;
+                    color: $orange;
                 }
 
                 &:active,
@@ -58,13 +58,13 @@
 
         .navbar-nav>li.nav-item>a.nav-link.active {
             color: $white;
-            background: $primary;
+            background: $orange;
 
             &:active,
             &:focus,
             &:hover {
                 color: $white;
-                background: $primary;
+                background: $orange;
             }
         }
     }

@@ -1,6 +1,6 @@
-// 
+//
 // Forms
-// 
+//
 
 .form-floating {
 
@@ -14,6 +14,7 @@
         border-width: 1px;
 
         &:focus {
+            border-color: #969fa8;
             box-shadow: none;
         }
 

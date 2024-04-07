@@ -1,6 +1,6 @@
-// 
+//
 // Masthead
-// 
+//
 
 .masthead {
     padding-top: calc(6rem + 74px);
@@ -16,13 +16,13 @@
     }
 
     .masthead-avatar {
-        width: 15rem;
+        width: 70%;
     }
 }
 
 @include media-breakpoint-up(lg) {
     .masthead {
-        padding-top: calc(6rem + 104px);
+        padding-top: calc(6rem + 74px);
         padding-bottom: 6rem;
 
         .masthead-heading {

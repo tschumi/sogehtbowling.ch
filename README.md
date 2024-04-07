@@ -1,32 +1,29 @@
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
+# [sogehtbowling.ch](https://github.com/tschumi/sogehtbowling.ch/)
 
-[Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
+This is the actual theme of sogehtbowling.ch.
+
+It is a fork of the famous [Freelancer](https://startbootstrap.com/theme/freelancer/) built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). Avatars are made with [Avataaars Generator](https://getavataaars.com) by [Fang-Pen Lin](https://twitter.com/fangpenlin).
 
 ## Preview
 
-[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
+[![sogehtbowling.ch Preview](https://raw.githubusercontent.com/tschumi/sogehtbowling.ch/main/screenshot.png)](https://raw.githubusercontent.com/tschumi/sogehtbowling.ch/main/screenshot.png)
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-freelancer/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/tschumi/sogehtbowling.ch/main/LICENSE)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/freelancer/)
-- Install using npm: `npm i startbootstrap-freelancer`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-freelancer.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-freelancer)
+- Clone the repo: `git clone https://github.com/tschumi/sogehtbowling.ch.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/tschumi/sogehtbowling.ch)
 
 ## Usage
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+After downloading, you can simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
 
@@ -45,24 +42,15 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 You must have npm installed in order to use this build environment.
 
-### Contact Form
-
-The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
-SB Forms is a simple form solution for adding functional forms to your theme. Since this theme is prebuilt using our
-SB Forms markup, all you need to do is sign up for [SB Forms on Start Bootstrap](https://startbootstrap.com/solution/contact-forms).
-
-After signing up you will need to set the domain name your form will be used on, and you will then see your
-access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
-`API_TOKEN`. That's it! Your forms will be up and running!
-
-If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
-closing `</body>` tag to SB Forms.
-
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/freelancer/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/tschumi/sogehtbowling.ch/issues) here on GitHub.
 
 ## About
+
+sogehtbowling.ch was created by and is maintained by **[Daniel Tschumi](https://danieltschumi.ch/)**.
+
+It's based on [Freelancer](https://startbootstrap.com/theme/freelancer/) by created by [Start Bootstrap](https://startbootstrap.com/).
 
 Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
@@ -79,4 +67,9 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 ## Copyright and License
 
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE) license.
+Copyright (c) 2013-2023 Start Bootstrap LLC  
+Copyright (c) 2024 Daniel Tschumi
+
+Code released under the [MIT](https://raw.githubusercontent.com/tschumi/sogehtbowling.ch/main/LICENSE) license.
+
+The Hoppi Galoppi Solutions logo is Copyright (c) 2017-2024 Daniel Tschumi

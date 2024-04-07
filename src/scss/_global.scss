@@ -1,10 +1,10 @@
-// 
+//
 // Global
-// 
+//
 
 // Scroll padding for all scroll targets on page used with
 // native CSS smooth scrolling
-// 
+//
 // https://caniuse.com/?search=scroll-padding
 
 html {
@@ -28,3 +28,19 @@ html {
         }
     }
 }
+
+.table-primary {
+    --bs-table-bg: #d5d8dc;
+    --bs-table-border-color: #c0c2c6;
+    --bs-table-striped-bg: #cacdd1;
+    --bs-table-active-bg: #c0c2c6;
+    --bs-table-hover-bg: #c5c8cc;
+  }
+
+  .table-secondary {
+    --bs-table-bg: #d1f2eb;
+    --bs-table-border-color: #bcdad4;
+    --bs-table-striped-bg: #c7e6df;
+    --bs-table-active-bg: #bcdad4;
+    --bs-table-hover-bg: #c1e0d9;
+  }
